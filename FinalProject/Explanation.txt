@@ -1,0 +1,13 @@
+We have two clusters so that is represented on the X axis with counts on the Y axis
+think of each cluster being a sample victim that is targeted most frequently
+we can see in the Vict.Sex plot, that cluster 0 is the males cluster and cluster 1 is the females cluster
+Looking at the rest of the diagrams, we can essentially determine the most commonly victimized male (0) and female (1)
+using these clusters, we can pick the largest value in each plot to "build" an at-risk victim profile
+
+Victim 1 (culster 0): Male, Hispanic, 30-40 years old, attacked between 4:00pm and 9:00pm
+Victim 2 (cluster 1): Female, White, 20-30 years old, attackd between 6:00am and 12:00pm
+We can say people with these characteristics are most likely to be attacked in LA
+
+we can add location data to give a potential area where they may be attacked.
+to do this, we will need to convert the lat and lon data to categorical data
+or use k-prototypes that allows for both numerical and categorical data features

@@ -1,0 +1,24 @@
+TO DO:
+Constant char arrays handling
+Statements
+
+
+FIXY UPPY:
+Ensure +=,-=,... are correct implementations
+could use temps inside +=, -=,... bottom [ portions as well, shoudln't need too though
+
+
+POTENTIAL QUESTIONS/PROBLEMS WHEN TESTING:
+are indexed arrays working properly
+
+look at using breaks in while
+
+c0d.tm
+c0h.tm
+c13.tm addr54 error
+c17.tm c18.tm
+e03.tm
+h03.tm still with h04.tm h05.tm
+
+mastermind.tm MAY BE EAZY
+queens.tm
